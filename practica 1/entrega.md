@@ -1,10 +1,10 @@
-#practica 1
+# practica 1
 
-###IP's
+### IP's
 swap1: 192.168.21.3
 swap2: 192.168.21.2
 
-###capturas
+### capturas
 acceso mediante ssh
 ![imagen conexion ssh](./Capturassh.PNG)
 
