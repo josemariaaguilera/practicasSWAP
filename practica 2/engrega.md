@@ -12,7 +12,7 @@ copiar contenido de una maquina a otra por ssh
 clonado de carpeta con rsync  
 ![clonado por rsync](./clonadoDeCarpeta.PNG)
 
-conexion por ssh sin contraseña  
+conexión por ssh sin contraseña  
 ![conexion ssh sin contrasenia](./conexionSshSinContrasenia.PNG)
 
 configuracion del crontab para clonar la carpeta cada hora  
