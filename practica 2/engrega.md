@@ -15,5 +15,5 @@ clonado de carpeta con rsync
 conexión por ssh sin contraseña  
 ![conexion ssh sin contrasenia](./conexionSshSinContrasenia.PNG)
 
-configuracion del crontab para clonar la carpeta cada hora  
+configuración del crontab para clonar la carpeta cada hora  
 ![rsync cada hora](./contrab.PNG)
